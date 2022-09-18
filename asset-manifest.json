@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/knockout-tournament/static/css/main.102df749.css",
+    "main.js": "/knockout-tournament/static/js/main.959deada.js",
+    "index.html": "/knockout-tournament/index.html",
+    "main.102df749.css.map": "/knockout-tournament/static/css/main.102df749.css.map",
+    "main.959deada.js.map": "/knockout-tournament/static/js/main.959deada.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.102df749.css",
+    "static/js/main.959deada.js"
+  ]
+}
